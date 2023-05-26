@@ -1,6 +1,4 @@
-# prompt_app
-
-A new Flutter project.
+Instagram UI made using ChatGPT my first attempt at Prompt Development/Natural language programming
 
 ## Getting Started
 
